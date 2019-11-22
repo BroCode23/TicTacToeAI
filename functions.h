@@ -1,5 +1,5 @@
-#ifndef PCH_H
-#define PCH_H
+#ifndef FUNCTIONS_H
+#define FUNCTIONS_H
 #include<string>
 
 class Tuple {
@@ -46,4 +46,4 @@ int minimax_score(int board[3][3], int player);
 
 Tuple minimax_ai(int board[3][3], int player);
 
-#endif //PCH_H
+#endif //FUNCTIONS_H
