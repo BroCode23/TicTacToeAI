@@ -1,6 +1,6 @@
 // pch.cpp: header file
 
-#include "pch.h"
+#include "functions.h"
 #include <iostream>
 #include <random>
 #include <string>
